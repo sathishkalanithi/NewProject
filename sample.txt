@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-int a = 10 printf("Hello world");
+int a = 11 printf("Hello world");
 }
 This is to test github
