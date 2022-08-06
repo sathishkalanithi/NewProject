@@ -7,7 +7,7 @@ int main()
 	int d;
 	c = a / b;
 	d = a * b;
-	printf("%d %d",c, d);
+	printf("%d",c);
 	return 0;
 }
 
