@@ -4,8 +4,10 @@ int main()
 	int a = 10;
 	int b = 1900;
 	int c;
+	int d;
 	c = a / b;
-	printf("%d",c);
+	d = a * b;
+	printf("%d %d",c, d);
 	return 0;
 }
 
